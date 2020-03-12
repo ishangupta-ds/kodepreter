@@ -1,0 +1,15 @@
+0		exit
+1		add top 2 numbers
+2		subtract top 2 numbers(top - topnext)
+3		multiply top 2 numbers
+4		divide top 2 numbers(top / topnext)
+5		top % topnext
+6		top == topnext
+7		top != topnext
+8		top <  topnext
+9		top >  topnext
+10		top &  topnext
+11		top |  topnext
+12		! top
+13		Input
+14		Output
